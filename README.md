@@ -1,34 +1,34 @@
-# https://www.karriere-suedniedersachsen.de/ Scraper – Django Integration
+## https://www.karriere-suedniedersachsen.de/ Scraper – Django Integration
 
-## This project is a web application that scrapes job listings from the Karriere Südniedersachsen
-## website and displays them in a clean, user-friendly format using Bootstrap, all within a Django-powered web interface.
+### This project is a web application that scrapes job listings from the Karriere Südniedersachsen
+### website and displays them in a clean, user-friendly format using Bootstrap, all within a Django-powered web interface.
 
 ### 🔍 Features
-### Scrapes job postings from the Karriere Südniedersachsen website
+#### Scrapes job postings from the Karriere Südniedersachsen website
 
-### Stores the data in a local database
+#### Stores the data in a local database
 
-### Displays listings in a Bootstrap-styled frontend
+#### Displays listings in a Bootstrap-styled frontend
 
-### Built with Python, Django, and BeautifulSoup
+#### Built with Python, Django, and BeautifulSoup
 
 ### ⚙️ Technologies Used
 
-### Python
+#### Python
 
-### Django
+#### Django
 
-### BeautifulSoup (for web scraping)
+#### BeautifulSoup (for web scraping)
 
-### SQLite (default Django DB)
+#### SQLite (default Django DB)
 
-### Bootstrap (via CDN)
+#### Bootstrap (via CDN)
 
-## Install dependencies and usage
+### Install dependencies and usage
 
-#### pip install -r requirements.txt
+##### pip install -r requirements.txt
 
-#### python scrapping.py
-#### python manage.py runserver
+##### python scrapping.py
+##### python manage.py runserver
 
-### Then open your browser and go to http://127.0.0.1:8000
+##### Then open your browser and go to http://127.0.0.1:8000
